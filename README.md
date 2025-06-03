@@ -4,8 +4,9 @@
 
 Nama | NRP
 --- | ---
-Amoes Noland | 5027231028
-Rafi' Afnaan Fathurrahman | 5027231040
+Ananda Widi Alrafi | 5027241067
+Raynard Carlent | 5027231109
+Zahra Hafizhah | 5027241121
 
 ## Daftar Isi
 
