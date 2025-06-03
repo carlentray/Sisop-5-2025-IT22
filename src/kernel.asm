@@ -1,4 +1,6 @@
 ; kernel.asm
+[org 0x100]
+jmp start
 
 global _putInMemory
 global _interrupt
@@ -47,3 +49,5 @@ intr:	int 0x00
 	mov ah,0
 	pop bp
 	ret
+
+start:
